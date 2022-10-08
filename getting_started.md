@@ -2,6 +2,7 @@ wow couldn't even write this yourself??
 
 # Resources
 - https://www.w3schools.com/python/
+- https://towardsdatascience.com/top-7-repositories-on-github-to-learn-python-44a3a7accb44
 
 # Terminal Commands (bash):
 - cd
@@ -45,9 +46,6 @@ wow couldn't even write this yourself??
 
 ### 2.) Get Access
 
-### .) Creating a Pull Request
-
-
 ### 3.) Create a new branch
 
     git checkout -b <branch_name>
@@ -60,4 +58,9 @@ wow couldn't even write this yourself??
     git checkout main
     git merge <branch_name>
 
+## Pull requests
 
+
+## Troubleshooting 
+
+### 
