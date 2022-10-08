@@ -41,7 +41,11 @@
 
     git clone https://github.com/michaelmunson/python_tutorial.git
 
-### 2.) Create a new branch
+### 2.) Get Access
+
+### 
+
+### 3.) Create a new branch
 
     git checkout -b <branch_name>
 
@@ -49,5 +53,8 @@
 
     git add .
     git commit -m "<commit_message>"
-    git checkout master
-    git 
+
+    git checkout main
+    git merge <branch_name>
+
+
