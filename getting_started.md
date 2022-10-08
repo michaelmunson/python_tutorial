@@ -43,7 +43,8 @@
 
 ### 2.) Get Access
 
-### 
+### .) Creating a Pull Request
+
 
 ### 3.) Create a new branch
 
