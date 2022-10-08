@@ -27,3 +27,27 @@
 - python3
     - command to run python(version 3) code
 
+
+# Git
+- "git is a tool for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development".
+
+## Getting Started
+---
+### 1.) Clone a Repository (repo)
+* this downloads all of the files and branches created. 
+    git clone <URL>
+
+*to clone this repository (python_tutorial) enter:*
+
+    git clone https://github.com/michaelmunson/python_tutorial.git
+
+### 2.) Create a new branch
+
+    git checkout -b <branch_name>
+
+### 3.) Merging a branch
+
+    git add .
+    git commit -m "<commit_message>"
+    git checkout master
+    git 
