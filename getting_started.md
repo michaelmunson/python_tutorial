@@ -43,6 +43,7 @@
     git clone https://github.com/michaelmunson/python_tutorial.git
 
 ### 2.) Get Access
+    grant or get access
 
 ### 3.) Create a new branch
 
