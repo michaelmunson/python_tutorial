@@ -59,7 +59,7 @@ wow couldn't even write this yourself??
     git merge <branch_name>
 
 ## Pull requests
-
+    
 
 ## Troubleshooting 
 
