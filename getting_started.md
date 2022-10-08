@@ -58,9 +58,10 @@ wow couldn't even write this yourself??
     git checkout main
     git merge <branch_name>
 
-## Pull requests
-    
+## Pull 
+    get checkout <branch>
+    git pull
 
 ## Troubleshooting 
-
+    
 ### 
