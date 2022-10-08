@@ -1,5 +1,3 @@
-wow couldn't even write this yourself??
-
 # Resources
 - https://www.w3schools.com/python/
 - https://towardsdatascience.com/top-7-repositories-on-github-to-learn-python-44a3a7accb44
