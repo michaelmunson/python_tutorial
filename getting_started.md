@@ -1,3 +1,5 @@
+wow couldn't even write this yourself??
+
 # Resources
 - https://www.w3schools.com/python/
 
