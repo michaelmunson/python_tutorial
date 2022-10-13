@@ -6,4 +6,3 @@ my_string = "A string of characters"
 
 my_boolean = True # or False
 
-
