@@ -1,8 +1,6 @@
 # lists
-<<<<<<< HEAD
 
-my_list = ["Gold", "Silver", "Bronze", "Iron"]
-=======
+
 # referred to as "arrays"
 
 # ordered (indexed)
@@ -18,4 +16,3 @@ gold = my_list[0]
 silver = my_list[1]
 
 what_am_i = my_list[-1]
->>>>>>> a6e65e4b71d29efd421fb5e384869821bc196c07
